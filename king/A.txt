@@ -1,3 +1,12 @@
 muahid khan
 is a good boy
 thank u all.
+<<<<<<< HEAD
+=======
+
+king
+
+mango
+apple
+fruit
+>>>>>>> 977bdbfd2d4f8b59ae62f6f5d234a955f134b536
